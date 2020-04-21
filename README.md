@@ -66,7 +66,6 @@ Obtain dataset and collaborate within our group to answer a set of self-drafted 
 
 
 # Vehicles available by Model Year in Overall Market, Garet Douglass
-**NEED INFO**
 ![Model by Model Year](PNG_Files/2_Model_by_Model_Year.png)
 ![Model Year by Model](PNG_Files/2_MY_by_Model.png)
 ![Total Listsings by Model Year](PNG_Files/2_Total_Vehicles_by_Model_Year_bar.png)
@@ -169,5 +168,5 @@ What are other vehicles could we recommend? (Slightly overbudget, higher mileage
       altima_df = tn_df.loc[tn_df['New_Model']=='Altima']
       tn_df.set_index('Vin').head(30)
       '''
-![Year Pie]('PNG_Files/Part_2_Years_Pie.png')      
-![Year Pice Years]('PNG_Files/Part_2_Price_Years.png')
+![Year Pie](PNG_Files/Part_2_Years_Pie.png)      
+![Year Pice Years](PNG_Files/Part_2_Price_Years.png)
