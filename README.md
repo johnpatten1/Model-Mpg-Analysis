@@ -66,7 +66,11 @@ Obtain dataset and collaborate within our group to answer a set of self-drafted 
 
 
 # Vehicles available by Model Year in Overall Market, Garet Douglass
+* How many of each model in the overall market through 2017?
+
 ![Model by Model Year](PNG_Files/2_Model_by_Model_Year.png)
+
+* How many of each model by model year in overall market?
 ![Model Year by Model](PNG_Files/2_MY_by_Model.png)
 ![Total Listsings by Model Year](PNG_Files/2_Total_Vehicles_by_Model_Year_bar.png)
 ![Total Listsings by Model Year(Scatter)](PNG_Files/2_Total_Vehicles_by_Model_Year.png)
