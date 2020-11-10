@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# groupproject
-# Matplotlib-4-4
-# group_project
-# group_project
-# group_project
-# sql-challenge
-# sqlalchemy-challenge
-# sqlalchemy-challenge
 =======
 # Project 1 | Collaborations with Git
 Group IV
